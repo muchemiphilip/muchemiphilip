@@ -7,7 +7,7 @@
 - 🎓 &nbsp; BTech in ICT.
 - 💼 &nbsp; Developer at Suluhisho Systems Limited.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Apache Kafke and System Design.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Apache Kafka and System Design.
 - ✍️ &nbsp; Pursuing Graphic Design and as hobbies/side hustles.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
